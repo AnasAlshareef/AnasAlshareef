@@ -9,7 +9,7 @@ I'm a Software Engineering student working with Flutter for mobile app developme
 
 - 🎓 Software Engineering student  
 - 📱 Flutter developer  
-- 💻 Learning backend development with Laravel  
+- 💻 Learning backend development   
 - 🌱 Always eager to learn new technologies and improve my skills  
 - ⚡ Fun fact: I enjoy coding, coffee, and football!  
 
@@ -18,7 +18,6 @@ I'm a Software Engineering student working with Flutter for mobile app developme
 ## 🛠️ Tech Skills
 
 - Flutter & Dart  
-- PHP & Laravel  
 - RESTful APIs  
 - Git & GitHub  
 - Basics of databases (MySQL, Firebase, MongoDB, etc.)  
